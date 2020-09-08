@@ -1,1 +1,1 @@
-This is a readme file for git
+This is a readme file for a lesson in git
